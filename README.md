@@ -1,4 +1,4 @@
-# — airline-reviews-sentiment-analysis.ipynb
+# airline-reviews-sentiment-analysis.ipynb
 
 
 ## Project scope (notebook-only)
